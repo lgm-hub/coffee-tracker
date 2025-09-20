@@ -1,5 +1,11 @@
 print ("Hello, Coffee Tracker!")
 
+# --- git checklist ---
+#1. Edit files in VS Code.
+#2. git status
+#3. git add .
+#4. git commit -m "message"
+#5. git push
 
 #nice-to-have: **xy**
 #advanced nice-to-have: ***xy***
